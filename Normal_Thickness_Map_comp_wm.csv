@@ -1,0 +1,30 @@
+
+Cortical thickness calculations (white-gray)
+Min Cortical thickness, 1.41707
+Max Cortical thickness, 9.37672
+Cortical Std deviation, 1.78104
+Median Cortical thickness, 6.01364
+Average Cortical thickness, 6.17
+Number of mesh vertices, 73637
+Number of WM vertices distance culled, 73515
+Number of WM vertices curvature culled, 0
+0,0
+0.5,0
+1,3
+1.5,0
+2,0
+2.5,0
+3,4
+3.5,4
+4,3
+4.5,17
+5,17
+5.5,13
+6,10
+6.5,9
+7,11
+7.5,8
+8,8
+8.5,6
+9,9
+9.5,0
